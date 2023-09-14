@@ -6,7 +6,7 @@ Morphable Model (3DMM)-based VFA approach that leverages a novel texture generat
 rendering technique and a self-refined optimization method,
 we iteratively fine-tune facial geometries, textures, and poses.
 Experimental results demonstrate that our approach outperforms existing state-of-the-art methods in both accuracy and
-temporal stability. Visual results and source code are available at : https://pawindergit.github.io/SR-VFA/
+temporal stability.
 ## Pipeline
 ![pipeline](figs/pipeline.png)
 ![output](figs/output.gif)
