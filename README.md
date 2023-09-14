@@ -9,3 +9,4 @@ Experimental results demonstrate that our approach outperforms existing state-of
 temporal stability. Visual results and source code are available at : https://pawindergit.github.io/SR-VFA/
 ## Pipeline
 ![pipeline](figs/pipeline.png)
+![output](figs/output.gif)
