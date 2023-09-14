@@ -1,3 +1,4 @@
+# SR-VFA: ACCURATE SELF-REFINED FACE ALIGNMENT IN VIDEOS
 ## ABSTRACT
 Face alignment is a fundamental yet challenging task for various facial analysis applications. Existing video-based face
 alignment (VFA) methods often neglect the consistency of facial geometries and textures across video sequences, thereby
